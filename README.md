@@ -1,5 +1,8 @@
 # spl-token
 
+### Mint Address: 6VeH5bEYvKx8BzY52nLWg2u3AUHEjwWkksEbxzLhHSTg
+### Token Account Address: Bq6gHwprUJoh6xnrxmScyx7S6oMUYXfHuGBk3T9E1zmv
+
 This is a Next.js app containing:
 
 - Tailwind CSS setup for styling
